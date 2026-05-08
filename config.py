@@ -1,0 +1,3 @@
+
+SERVER = "DESKTOP-D8MEG7B\\SQLEXPRESS"
+DATABASE = "ecommerce_analysis"
